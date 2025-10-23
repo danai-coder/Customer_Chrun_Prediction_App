@@ -1,20 +1,9 @@
-Name: matplotlib
-Version: 3.10.7
+matplotlib==3.9.2
+seaborn==0.13.2
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+streamlit==1.38.0
+joblib==1.4.2
 
-Name: seaborn
-Version: 0.13.2
 
-Name: numpy
-Version: 2.3.4
-
-Name: pandas
-Version: 2.3.3
-
-Name: scikit-learn
-Version: 1.7.2
-
-Name: streamlit
-Version: 1.50.0
-
-Name: joblib
-Version: 1.5.2
